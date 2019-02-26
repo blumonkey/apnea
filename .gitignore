@@ -1,0 +1,4 @@
+resources/GoogleNews-vectors-negative300.bin
+resources/glove.pkl
+.idea/*
+*.pyc

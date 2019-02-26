@@ -1,0 +1,407 @@
+{
+        "Amazon": [
+            ["delivery", false, 1.0],
+            ["package", false, 1.0],
+            ["Web Services", false, 1.0],
+            ["books", false, 1.0],
+            ["Prime Video", false, 1.0],
+            ["video streaming", false, 1.0],
+            ["buy online", false, 1.0]
+        ],
+        "Facebook": [
+            ["connect with friends", false, 1.0],
+            ["connect", false, 1.0],
+            ["reach people", false, 1.0],
+            ["social media", false, 1.0],
+            ["online friends", false, 1.0]
+        ],
+        "UK Tourism": [
+            ["UK", false, 1.0],
+            ["tourism", false, 1.0],
+            ["vacation", false, 1.0],
+            ["holidays", false, 1.0],
+            ["relax", true, 1.0]
+        ],
+        "Apple": [
+            ["ipad", false, 1.0],
+            ["iphone", false, 1.0],
+            ["smart phone", false, 1.0],
+            ["icloud", false, 1.0],
+            ["phone", false, 1.0]
+        ],
+        "Nokia": [
+            ["mobile phones", false, 1.0],
+            ["communication", false, 1.0],
+            ["internet", false, 1.0],
+            ["cell phone", false, 1.0],
+            ["phone", false, 1.0]
+        ],
+        "Adobe": [
+            ["creative", false, 1.0],
+            ["photoshop", false, 1.0],
+            ["multimedia editing", false, 1.0],
+            ["animation", false, 1.0]
+        ],
+        "Comcast": [
+            ["comcast high speed", false, 1.0],
+            ["high speed internet", false, 1.0]
+        ],
+        "Flipkart": [
+            ["delivery", false, 1.0],
+            ["products", false, 1.0],
+            ["online market", false, 1.0],
+            ["buy online", false, 1.0]
+        ],
+        "HP": [
+            ["printers", false, 1.0],
+            ["toner and cartridges", false, 1.0],
+            ["servers for businesses", false, 1.0],
+            ["3d printing", false, 1.0],
+            ["buy computers", false, 1.0]
+        ],
+        "Netflix": [
+            ["online movies ", false, 1.0],
+            ["watch online movies", false, 1.0],
+            ["video streaming", false, 1.0]
+        ],
+        "AT&T": [
+            ["ATT call conference", false, 1.0],
+            ["att prepaid", false, 1.0],
+            ["at t wireless", false, 1.0],
+            ["at and t cell phones", false, 1.0],
+            ["mobile plans", false, 1.0],
+            ["high speed internet", false, 1.0]
+        ],
+        "Atlassian": [
+            ["agile management software", false, 1.0],
+            ["software collaboration", false, 1.0],
+            ["software development", false, 1.0]
+        ],
+        "Cisco": [
+            ["applications in the cloud", false, 1.0],
+            ["video conferencing", false, 1.0],
+            ["wan optimization", false, 1.0],
+            ["computer network", false, 1.0],
+            ["wifi router", false, 1.0],
+            ["high speed internet", false, 1.0]
+        ],
+        "Microsoft": [
+            ["Windows", false, 1.0],
+            ["Microsoft Office", false, 1.0],
+            ["Windows Mobile", false, 1.0],
+            ["smartphone", false, 1.0],
+            ["search engine", false, 1.0]
+        ],
+        "Samsung": [
+            ["lcd tv", false, 1.0],
+            ["tv", false, 1.0],
+            ["cell phones", false, 1.0],
+            ["smartphone", false, 1.0],
+            ["Android", false, 1.0],
+            ["Samsung Galaxy", false, 1.0],
+            ["Samsung Note", false, 1.0]
+        ],
+        "Glassdoor": [
+            ["jobs", false, 1.0],
+            ["internships", false, 1.0],
+            ["software jobs", false, 1.0]
+        ],
+        "Yelp": [
+            ["restaurants", false, 1.0],
+            ["local business", false, 1.0],
+            ["online reviews", false, 1.0],
+            ["recommend business", false, 1.0]
+        ],
+        "PayPal": [
+            ["accept credit cards", false, 1.0],
+            ["online credit card", false, 1.0],
+            ["pay online", false, 1.0],
+            ["easy payments", false, 1.0]
+        ],
+        "IBM": [
+            ["software solutions", false, 1.0],
+            ["servers", false, 1.0],
+            ["computers", false, 1.0],
+            ["research jobs", false, 1.0]
+        ],
+        "Virgin Mobile": [
+            ["mobile plans", false, 1.0],
+            ["cheap mobile plans", false, 1.0],
+            ["cheap mobiles", false, 1.0],
+            ["cell phone", false, 1.0],
+            ["high speed internet", false, 1.0],
+            ["wireless", false, 1.0],
+            ["smartphone", false, 1.0]
+        ],
+        "T-Mobile": [
+            ["mobile plans", false, 1.0],
+            ["cheap mobile plans", false, 1.0],
+            ["cheap mobiles", false, 1.0],
+            ["wireless", false, 1.0],
+            ["cell phone", false, 1.0],
+            ["smartphone", false, 1.0],
+            ["high speed internet", false, 1.0]
+        ],
+        "Skype": [
+            ["video call", false, 1.0],
+            ["conference call", false, 1.0],
+            ["video conference", false, 1.0]
+        ],
+        "Lexmark": [
+            ["ink for print", false, 1.0],
+            ["printers", false, 1.0],
+            ["cartridge", false, 1.0]
+        ],
+        "Best Buy": [
+            ["buy electronics", false, 1.0],
+            ["buy gadgets", false, 1.0]
+        ],
+        "Costco": [
+            ["small business", false, 1.0],
+            ["wholesale", false, 1.0]
+        ],
+        "Home Depot": [
+            ["hardware needs", false, 1.0],
+            ["home supplies", false, 1.0]
+        ],
+        "Sears": [
+            ["home appliances", false, 1.0],
+            ["clothing", false, 1.0],
+            ["bed and bath -beyond", false, 1.0]
+        ],
+        "Old Navy": [
+            ["cheap clothing", false, 1.0],
+            ["buy clothes", false, 1.0]
+        ],
+        "Target": [
+            ["dresses for kids", false, 1.0]
+        ],
+        "Applebees": [
+            ["restaurants", false, 1.0],
+    		["places to eat", false, 1.0],
+            ["applebees menu", false, 1.0],
+            ["breakfast", false, 1.0]
+        ],
+        "Dominos": [
+            ["restaurants", false, 1.0],
+    		["places to eat", false, 1.0],
+            ["pizza", false, 1.0],
+            ["chicken wings", false, 1.0]
+        ],
+        "McDonalds": [
+            ["restaurants", false, 1.0],
+    		["places to eat", false, 1.0],
+            ["burgers", false, 1.0],
+            ["shakes", false, 1.0]
+        ],
+        "UPS": [
+            ["delivery", false, 1.0],
+            ["package", false, 1.0],
+            ["send package", false, 1.0],
+            ["logistics", false, 1.0]
+        ],
+        "FedEx": [
+            ["delivery", false, 1.0],
+            ["package", false, 1.0],
+            ["send package", false, 1.0],
+            ["logistics", false, 1.0]
+        ],
+        "USPS": [
+            ["mail", false, 1.0],
+            ["post", false, 1.0],
+            ["delivery", false, 1.0],
+            ["package", false, 1.0],
+            ["send package", false, 1.0],
+            ["logistics", false, 1.0]
+        ],
+        "DHL": [
+            ["delivery", false, 1.0],
+            ["package", false, 1.0],
+            ["send package", false, 1.0],
+            ["logistics", false, 1.0]
+        ],
+        "France tourism": [
+            ["french tourism", false, 1.0],
+            ["vacation", false, 1.0],
+            ["holidays", false, 1.0],
+            ["relax", true, 1.0]
+        ],
+        "USA Tourism": [
+            ["US", false, 1.0],
+            ["america", false, 1.0],
+            ["alaska", false, 1.0],
+            ["carribean", false, 1.0],
+            ["hawaii", false, 1.0],
+            ["tourism", false, 1.0],
+            ["vacation", false, 1.0],
+            ["holidays", false, 1.0],
+            ["relax", true, 1.0]
+        ],
+        "Spain Tourism": [
+            ["spanish tourism", false, 1.0],
+            ["vacation", false, 1.0],
+            ["holidays", false, 1.0],
+            ["relax", true, 1.0]
+        ],
+        "China tourism": [
+            ["chinese tourism", false, 1.0],
+            ["vacation", false, 1.0],
+            ["holidays", false, 1.0],
+            ["relax", true, 1.0]
+        ],
+        "Italy Tourism": [
+            ["italian tourism", false, 1.0],
+            ["vacation", false, 1.0],
+            ["holidays", false, 1.0],
+            ["relax", true, 1.0]
+        ],
+        "TripAdvisor": [
+            ["book flights", false, 1.0],
+            ["book hotels", false, 1.0],
+            ["rent a car", false, 1.0],
+            ["dubai tours", false, 1.0],
+            ["cheap holidays", false, 1.0],
+            ["tourism", false, 1.0],
+            ["vacation", false, 1.0],
+            ["holidays", false, 1.0],
+            ["relax", true, 1.0]
+        ],
+        "Holiday Inn": [
+            ["book flights", false, 1.0],
+            ["book hotels", false, 1.0],
+            ["rent a car", false, 1.0],
+            ["dubai tours", false, 1.0],
+            ["cheap holidays", false, 1.0],
+            ["tourism", false, 1.0],
+            ["vacation", false, 1.0],
+            ["holidays", false, 1.0],
+            ["relax", true, 1.0]
+        ],
+        "Expedia": [
+            ["book flights", false, 1.0],
+            ["book hotels", false, 1.0],
+            ["rent a car", false, 1.0],
+            ["dubai tours ", false, 1.0],
+            ["cheap holidays", false, 1.0],
+            ["tourism", false, 1.0],
+            ["vacation", false, 1.0],
+            ["holidays", false, 1.0],
+            ["relax", true, 1.0]
+        ],
+        "MakeMyTrip": [
+            ["book flights", false, 1.0],
+            ["book hotels", false, 1.0],
+            ["rent a car", false, 1.0],
+            ["dubai tours ", false, 1.0],
+            ["cheap holidays", false, 1.0],
+            ["tourism", false, 1.0],
+            ["vacation", false, 1.0],
+            ["holidays", false, 1.0],
+            ["relax", true, 1.0]
+        ],
+        "Turkish airlines": [
+          ["flights turkey", false, 1.0],
+          ["airlines", false, 1.0],
+          ["flight tickets", false, 1.0]
+        ],
+        "Emirates": [
+          ["flights uae", false, 1.0],
+          ["airlines", false, 1.0],
+          ["flight tickets", false, 1.0]
+        ],
+        "Lufthansa": [
+          ["flights germany", false, 1.0],
+          ["airlines", false, 1.0],
+          ["flight tickets", false, 1.0]
+        ],
+        "Malaysia airlines": [
+          ["flights malaysia", false, 1.0],
+          ["airlines", false, 1.0],
+          ["flight tickets", false, 1.0]
+        ],
+        "United Airlines": [
+          ["flights usa", false, 1.0],
+          ["airlines", false, 1.0],
+          ["flight tickets", false, 1.0]
+        ],
+        "Shell": [
+            ["oil", false, 1.0],
+            ["gasoline", false, 1.0],
+            ["fuel", false, 1.0]
+        ],
+        "China National Petroleum Corporation": [
+            ["oil", false, 1.0],
+            ["gasoline", false, 1.0],
+            ["fuel", false, 1.0]
+        ],
+        "Exxon Mobil": [
+            ["oil", false, 1.0],
+            ["gasoline", false, 1.0],
+            ["fuel", false, 1.0]
+        ],
+        "Royal Dutch Shell": [
+            ["oil", false, 1.0],
+            ["gasoline", false, 1.0],
+            ["fuel", false, 1.0]
+        ],
+        "BP": [
+            ["oil", false, 1.0],
+            ["gasoline", false, 1.0],
+            ["fuel", false, 1.0]
+        ],
+        "Chevron Corporation": [
+            ["oil", false, 1.0],
+            ["gasoline", false, 1.0],
+            ["fuel", false, 1.0]
+        ],
+        "BMW": [
+            ["automobiles", false, 1.0],
+            ["car", false, 1.0]
+        ],
+        "Honda": [
+            ["automobiles", false, 1.0],
+            ["car", false, 1.0]
+        ],
+        "Fiat": [
+            ["automobiles", false, 1.0],
+            ["car", false, 1.0]
+        ],
+        "Ford": [
+            ["automobiles", false, 1.0],
+            ["car", false, 1.0]
+        ],
+        "Toyota": [
+            ["automobiles", false, 1.0],
+            ["car", false, 1.0]
+        ],
+        "Kia": [
+            ["automobiles", false, 1.0],
+            ["car", false, 1.0]
+        ],
+        "Volkswagen Group": [
+            ["automobiles", false, 1.0],
+            ["car", false, 1.0]
+        ],
+        "A-Lawyers": [
+            ["accidents", true, 1.0],
+            ["crash", true, 1.0],
+            ["injury", true, 1.0],
+            ["automobile crash", true, 1.0]
+        ],
+        "Hilton": [
+            ["hotels", false, 1.0],
+            ["book hotel room", false, 1.0]
+        ],
+        "Marriott": [
+            ["hotels", false, 1.0],
+            ["book hotel room", false, 1.0]
+        ],
+        "Avis": [
+            ["rent a car", false, 1.0],
+            ["car rentals", false, 1.0]
+        ],
+        "Budget": [
+            ["rent a car", false, 1.0],
+            ["car rentals", false, 1.0]
+        ]
+}

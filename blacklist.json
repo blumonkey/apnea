@@ -1,0 +1,63 @@
+{
+        "microsoft": [
+            "slow update",
+            "virus"
+        ],
+        "yelp": [
+            "fake review"
+        ],
+        "dominos": [
+            "obesity",
+            "obese",
+            "cholesterol",
+            "heart attack"
+        ],
+        "mcdonalds": [
+            "obesity",
+            "obese",
+            "cholesterol",
+            "heart attack"
+        ],
+        "ups": [
+            "misdelivery"
+        ],
+        "fedex": [
+            "misdelivery"
+        ],
+        "usps": [
+            "misdelivery"
+        ],
+        "dhl": [
+            "misdelivery"
+        ],
+        "shell": [
+            "pollution",
+            "global warming",
+            "climate change"
+        ],
+        "china national petroleum corporation": [
+            "pollution",
+            "global warming",
+            "climate change"
+        ],
+        "exxon mobil": [
+            "pollution",
+            "global warming",
+            "climate change"
+        ],
+        "royal dutch shell": [
+            "pollution",
+            "global warming",
+            "climate change"
+        ],
+        "bp": [
+            "pollution",
+            "global warming",
+            "climate change"
+        ],
+        "chevron corporation": [
+            "pollution",
+            "global warming",
+            "climate change"
+        ]
+}
